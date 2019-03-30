@@ -16,6 +16,6 @@ Para utilizar este script se necesita correr en Termux los siguientes comandos:
 To execute this script, you need to do enter this commands in Termux:
 ~~~~
 pkg install wget
-wget http://github.com/carlosmtron/gfortmux/gscript.sh
+wget http://carlosmtron.github.io/gfortmux/gscript.sh
 bash gscript.sh
 ~~~~
