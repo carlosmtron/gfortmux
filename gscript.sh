@@ -5,7 +5,7 @@
 # Para utilizar este script se necesita correr en Termux
 # los siguientes comandos:
 #	$ pkg install wget
-#	$ wget http://github.com/carlosmtron/gfortmux/gscript.sh
+#	$ wget http://carlosmtron.github.io/gfortmux/gscript.sh
 #	$ bash gscript.sh
 
 # Instalación de paquetes necesarios: coreutils, gnupg, wget
