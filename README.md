@@ -12,6 +12,7 @@ Autor del Script: [https://github.com/carlosmtron/gfortmux](Carlos M. Silva).
 
 ## Uso del Script / Script usage
 Para utilizar este script se necesita correr en Termux los siguientes comandos:
+
 To execute this script, you need to do enter this commands in Termux:
 ~~~~
 pkg install wget
