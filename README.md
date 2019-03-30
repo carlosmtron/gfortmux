@@ -1,7 +1,7 @@
 # gfortmux
 Script de instalación de gfortran en Termux / Installation Script for **gfortran** in Termux
 
-_Probado en Termux para Android 7.0 / It works fine in Termux for Android 7.0
+_Probado en Termux para Android 7.0 / It works fine in Termux for Android 7.0_
 
 Utiliza los repositorios `gcc_termux` de `its-pointless`,
 disponibles en [http://github.com/its-poinless/gcc_termux](http://github.com/its-poinless/gcc_termux)
